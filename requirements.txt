@@ -1,5 +1,5 @@
-geopandas==0.13.2
-shapely==1.8.5
-folium==0.14.0
-streamlit==1.24.0
-requests==2.31.0
+geopandas
+shapely
+folium
+streamlit
+requests
